@@ -1,18 +1,18 @@
 # Homework_1
   Generate a random DNA sequences. You can tune sequence size (min\max) and quantity.
 
-##No installation!
+## No installation!
 
-##QUICK START:
+## QUICK START:
   python gen_random_seq.py -h
   python gen_random_seq.py -o test
 
-##Full usage
+## Full usage
   
-  *type:
+  *type*:
     python gen_random_seq.py -h
   
-  *out:
+  *out*:
     Random sequences (DNA) generator
 
     optional arguments:
