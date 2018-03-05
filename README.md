@@ -11,9 +11,13 @@
 ## Full usage
   
   *type*:
+  
+    ```bash
     python gen_random_seq.py -h
+    ```
   
   *out*:
+  
     Random sequences (DNA) generator
 
     optional arguments:
