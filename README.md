@@ -4,7 +4,6 @@
 ## No installation!
 
 ## QUICK START:
-  python gen_random_seq.py -h
   python gen_random_seq.py -o test
 
 ## Full usage
