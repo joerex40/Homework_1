@@ -12,9 +12,9 @@
   
   *type*:
   
-    ```bash
+  ```bash
     python gen_random_seq.py -h
-    ```
+  ```
   
   *out*:
   
