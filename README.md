@@ -4,7 +4,9 @@
 ## No installation!
 
 ## QUICK START:
+  ```bash
   python gen_random_seq.py -o test
+  ```
 
 ## Full usage
   
